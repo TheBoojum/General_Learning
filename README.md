@@ -7,3 +7,5 @@ To which I've added another line.
 ## Local Edits
 
 Added locally.
+
+## Loaded using Git GUI
